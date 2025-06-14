@@ -1,4 +1,5 @@
 /reset-password /index.html 200
+/forgot-password /index.html 200
 /accept-invitation /index.html 200
 /dashboard    /index.html   200
 /dashboard/*  /index.html   200
